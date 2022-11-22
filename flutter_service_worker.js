@@ -3,8 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b92fce309fcb49fee2975d45e8e05e9e",
+  "assets/AssetManifest.json": "0bbc73f763a35a7d612f00529832db1d",
+"assets/assets/logo_curso_solar.png": "5fcc4b651039db2e310d281556fe4a8d",
 "assets/assets/Perfil.jpg": "16cf4b26b04278b093362fc89a6ae0d2",
+"assets/assets/pv_module_image.jpg": "626e179a24a964a8b4a193612f28b8a9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "cbc238962dbdd77f39f118df55456062",
@@ -20,9 +22,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "76e742c1485159a4473cac1233377291",
-"/": "76e742c1485159a4473cac1233377291",
-"main.dart.js": "e243af9a7676a0fdad5c76e618c1c59a",
+"index.html": "9ca74e0fb14812b9b4930081438e73b7",
+"/": "9ca74e0fb14812b9b4930081438e73b7",
+"main.dart.js": "4dcf81b45338ca1fa21a81045b2e0514",
 "manifest.json": "08571ef6018531932f23191602f6d191",
 "version.json": "502f3cc44b0c0fceece8693e0797297c"
 };
